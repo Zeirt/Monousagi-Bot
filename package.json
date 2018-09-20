@@ -1,0 +1,15 @@
+{
+  "name": "Monousagi",
+  "version": "1.1",
+  "description": "A private Discord Bot for Future's Road to Despair",
+  "main": "runnable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeirt",
+  "license": "GPL-3",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+		"cleverbot.io": "^1.0"
+  }
+}
